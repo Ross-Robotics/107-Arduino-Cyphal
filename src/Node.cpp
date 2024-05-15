@@ -97,7 +97,7 @@ NodeInfo Node::create_node_info(uint8_t const protocol_major, uint8_t const prot
 
 void Node::spinSome()
 {
-  processPortList();
+  //processPortList();
   processRxQueue();
   processTxQueue();
 }
