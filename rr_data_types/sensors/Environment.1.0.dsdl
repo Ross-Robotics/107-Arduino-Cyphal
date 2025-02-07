@@ -1,0 +1,7 @@
+uavcan.time.SynchronizedTimestamp.1.0 timestamp
+uint8[<=50] location
+float32 celsius
+float32 pascal
+float32 r_humidity
+float32 mOhm
+@sealed

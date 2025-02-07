@@ -1,0 +1,9 @@
+uavcan.time.SynchronizedTimestamp.1.0 timestamp
+float32 range
+int8 radiation_type
+# ULTRASOUND=0
+# INFRARED=1
+float32 field_of_view
+float32 min_range
+float32 max_range
+@sealed

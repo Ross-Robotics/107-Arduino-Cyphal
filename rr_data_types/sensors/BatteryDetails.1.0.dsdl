@@ -1,0 +1,6 @@
+uavcan.time.SynchronizedTimestamp.1.0 timestamp
+int8[2] battery_technology
+int16 battery_serial_number
+uint8[<=50] battery_location
+float32[2] battery_design_capacity
+@sealed

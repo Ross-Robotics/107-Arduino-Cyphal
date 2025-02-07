@@ -1,0 +1,7 @@
+uavcan.time.SynchronizedTimestamp.1.0 timestamp
+uint8[<=50] fan_name
+uint8 duty_cycle
+int16 rpm
+float32 temp_int
+float32 temp_ext
+@sealed

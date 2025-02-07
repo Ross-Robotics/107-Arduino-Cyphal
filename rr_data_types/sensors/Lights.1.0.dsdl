@@ -1,0 +1,4 @@
+uavcan.time.SynchronizedTimestamp.1.0 timestamp
+int8 brightness
+int8 mode
+@sealed

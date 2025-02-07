@@ -1,0 +1,7 @@
+uavcan.time.SynchronizedTimestamp.1.0 timestamp
+uint8[<=50] headlight_name
+bool feedback
+bool state
+int8 mode
+int8 intensity
+@sealed

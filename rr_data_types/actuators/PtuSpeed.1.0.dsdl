@@ -1,0 +1,4 @@
+uavcan.time.SynchronizedTimestamp.1.0 timestamp
+int8 pan
+int8 tilt
+@sealed

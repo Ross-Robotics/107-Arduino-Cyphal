@@ -1,0 +1,17 @@
+uavcan.time.SynchronizedTimestamp.1.0 timestamp
+float32[2] battery_voltage
+float32[2] battery_temperature
+float32[2] battery_current
+float32[2] battery_charge
+float32[2] battery_capacity
+float32[2] battery_charge_percentage
+int8[2] battery_status
+int8[2] battery_health
+
+int8[2] charger_providing_voltage
+float32[2] charger_temperature
+float32[2] charger_current_limiter_temperature
+float32[2] charger_current
+float32[2] charger_voltage
+int8[2] charger_status
+@sealed

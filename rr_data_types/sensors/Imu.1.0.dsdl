@@ -1,0 +1,5 @@
+uavcan.time.SynchronizedTimestamp.1.0 timestamp
+float32[4] wxyz
+float32[3] xyz_linear_meter_per_second_per_second
+float32[3] xyz_radian_per_second
+@sealed
