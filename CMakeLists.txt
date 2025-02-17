@@ -21,7 +21,7 @@ add_library(${PROJECT_NAME} STATIC
   src/libo1heap/o1heap.c
 )
 ##########################################################################
-# target_compile_options(${PROJECT_NAME} PRIVATE -Wall -Wextra -Wpedantic -Werror)
+target_compile_options(${PROJECT_NAME} PRIVATE -Wall -Wextra -Wpedantic -Werror)
 ##########################################################################
 target_include_directories(${PROJECT_NAME} PUBLIC src extras/cyphal++/include src/libcanard src/libo1heap)
 target_compile_features(${PROJECT_NAME} PUBLIC cxx_std_20)
