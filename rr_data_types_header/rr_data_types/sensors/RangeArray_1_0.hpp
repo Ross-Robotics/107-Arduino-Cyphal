@@ -7,7 +7,7 @@
 //
 // Generator:     nunavut-2.3.1 (serialization was enabled)
 // Source file:   /home/joe/Data/mk4_firmware/libs/external/107-Arduino-Cyphal/rr_data_types/sensors/RangeArray.1.0.dsdl
-// Generated at:  2025-02-07 11:40:54.755705 UTC
+// Generated at:  2025-02-12 14:20:09.921529 UTC
 // Is deprecated: no
 // Fixed port-ID: None
 // Full name:     rr_data_types.sensors.RangeArray
